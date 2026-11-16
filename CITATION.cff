@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the repository version."
+title: "Microbiome Explorer"
+type: software
+authors:
+  - family-names: "Bansal"
+    given-names: "Nitin"
+version: 0.1.0
+date-released: 2026-11-13
+license: MIT
+repository-code: "https://github.com/YOUR-USERNAME/microbiome-explorer"

@@ -1,0 +1,4 @@
+aws_region   = "us-east-1"
+project_name = "microbiome-explorer"
+image_tag    = "latest"
+desired_count = 1

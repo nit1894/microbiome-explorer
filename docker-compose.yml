@@ -1,0 +1,9 @@
+services:
+  microbiome-explorer:
+    build: .
+    ports:
+      - "3838:3838"
+    environment:
+      AWS_REGION: ${AWS_REGION:-}
+      MICROBIOME_S3_BUCKET: ${MICROBIOME_S3_BUCKET:-}
+    restart: unless-stopped
