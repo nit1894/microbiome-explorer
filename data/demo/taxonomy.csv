@@ -1,0 +1,9 @@
+FeatureID	Kingdom	Phylum	Class	Order	Family	Genus
+ASV001	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactiplantibacillus
+ASV002	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Acetobacter
+ASV003	Bacteria	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus
+ASV004	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter
+ASV005	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas
+ASV006	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus
+ASV007	Bacteria	Actinomycetota	Actinomycetes	Micrococcales	Micrococcaceae	Micrococcus
+ASV008	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides
